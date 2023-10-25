@@ -1,5 +1,5 @@
+![aimped](https://www.aimped.ai/static/media/aimped.cd94ccd9e498087e20c0792b0c6d0327.svg)
 # AI-Amplified's Models Repository: Pretrained Models and Resources
-
 This repository hosts various resources related to SOTO models developed by AI-Amplified. Available materials include notebooks, data, pertinent research papers, and demonstrative notebooks.
 
 ## Featured Topics
