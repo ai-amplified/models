@@ -24,7 +24,7 @@ Investigate how NLP can bring transformation in the legal industry.
 
 # More Details
 
-For a more extensive walkthrough, examine our [main repository](https://github.com/ai-amplified/models).
+For a more extensive walkthrough, examine our [main repository](https://github.com/orgs/ai-amplified/repositories).
 
 # Connect
 
