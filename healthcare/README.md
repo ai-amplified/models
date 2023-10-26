@@ -4,7 +4,7 @@ This repository contains various models for healthcare tasks developed by AI Amp
 
 - [Clinical Named Entity Recognition](https://github.com/ai-amplified/models/tree/main/healthcare/1.Clinical_Named_Entity_Recognition_Model.ipynb)
 - [Clinical Assertion](https://github.com/ai-amplified/models/tree/main/healthcare/2.Clinical_Assertion_Model.ipynb)
-- [Clinical Entity Resolution](https://github.com/ai-amplified/models/tree/main/healthcare/Classify%20Basic%20Brain%20Tumors%20from%20MRIs)
+- [Classify Basic Brain Tumors from MRIs](https://github.com/ai-amplified/models/tree/main/healthcare/Classify%20Basic%20Brain%20Tumors%20from%20MRIs)
 - [Clinical Relation Extraction](https://github.com/ai-amplified/models/tree/main/healthcare/10.Clinical_Relation_Extraction.ipynb)
 - [Clinical De-identification](https://github.com/ai-amplified/models/tree/main/healthcare/4.Clinical_DeIdentification.ipynb)
 - [Optical Character Recognition with Aimped OCR](https://github.com/ai-amplified/models/tree/main/healthcare/5.Nioyatech-AI_OCR.ipynb)
