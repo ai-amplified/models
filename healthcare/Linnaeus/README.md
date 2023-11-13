@@ -1,5 +1,5 @@
 # Extract Living Species from Medical Texts
-[[![State-of-the-art Shitcode](https://img.shields.io/badge/State_of_the_Art-Named_Entity_Recognition_(NER)_on_Linnaeus-blue)](https://paperswithcode.com/sota/named-entity-recognition-on-linnaeus)
+[![State-of-the-art Shitcode](https://img.shields.io/badge/State_of_the_Art-Named_Entity_Recognition_(NER)_on_Linnaeus-blue)](https://paperswithcode.com/sota/named-entity-recognition-on-linnaeus)
 
 ## Model Checkpoints
 
