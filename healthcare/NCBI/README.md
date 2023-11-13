@@ -1,5 +1,5 @@
 # Extract Diseases from Medical Texts
-[![Ranked-#2 Shitcode](https://img.shields.io/badge/Ranked_#2-Named_Entity_Recognition_(NER)_on_NCBI-blue)](https://paperswithcode.com/sota/named-entity-recognition-ner-on-ncbi-disease)
+[![Ranked-2 Shitcode](https://img.shields.io/badge/Ranked_2-Named_Entity_Recognition_(NER)_on_NCBI-blue)](https://paperswithcode.com/sota/named-entity-recognition-ner-on-ncbi-disease)
 
 ## Model Checkpoints
 <p><span style="font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 16px;"><a href="https://huggingface.co/aimped/nlp-health-ner-ncbi-disease-base-en">nlp-health-ner-ncbi-disease-base-en</a></span></p>
