@@ -1,4 +1,5 @@
 # Extract Living Species from Medical Texts
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/biomedical-named-entity-recognition-at-scale/named-entity-recognition-on-linnaeus)](https://paperswithcode.com/sota/named-entity-recognition-on-linnaeus?p=biomedical-named-entity-recognition-at-scale)
 
 ## Model Checkpoints
 
