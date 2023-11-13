@@ -1,0 +1,4 @@
+,sentence,firstEntBegin,firstEntEnd,entity1,secondEntBegin,secondEntEnd,entity2,rel
+0,Fatal eosinophilia myalgia syndrome in a marrow transplant patient attributed to total parenteral nutrition with a solution containing tryptophan.,0,35,ADE,135,145,DRUG,1
+1,"We report three cases of severe hepatotoxicity related to benzarone, a benzofuran derivative.",25,46,ADE,58,67,DRUG,1
+2,"We report three cases of severe hepatotoxicity related to benzarone, a benzofuran derivative.",25,46,ADE,71,81,DRUG,0
