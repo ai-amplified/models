@@ -1,6 +1,5 @@
+![](./figs/1.png)
 # Adverse Drug Event Detection Using NLP
-
-![](./figs/1.jpg)
 
 This repository contains resources related to the article **Leveraging Transformers for Medical Text Anonymization:  De-identification of PHI in Multiple Languages**.
 
@@ -8,14 +7,14 @@ This repository contains resources related to the article **Leveraging Transform
 
 In recent years, the increasing number of chronic diseases and pandemics such as COVID-19 have once again demonstrated the importance of processing patient information and researching new ways of treatment. However, protecting patient privacy is still one of the important principles of ensuring patient safety. It is a necessity to hide, de-identify or delete patient identity, which is among the information needed in scientific studies. There is no restriction on the use of anonymized patient information in studies. Clinicians and other researchers should act in this context. 
 
-In this study, the methodology and findings of the de-identification models developed in seven different languages, namely English, German, Italian, French, Romanian, Turkish, Arabic and Spanish, are presented. The f1-score micro averages obtained as a result of the studies were 0.962, 0.975, 0.976, 0.970, 0.964, 0.974, 0.978, respectively.
+In this study, the methodology and findings of the de-identification models developed in seven different languages, namely English, German, Italian, French, Romanian, Turkish, Arabic and Spanish, are presented. The f1-score micro averages obtained as a result of the studies were 0.962, 0.975, 0.976, 0.970, 0.964, 0.974, 0.9530, 0.978, respectively.
 
 
-![](./figs/2.jpg)
-![](./figs/3.jpg)
+![](./figs/2.png)
+![](./figs/3.png)
 
-![](./figs/4.jpg)
-![](./figs/5.jpg)
+![](./figs/4.png)
+![](./figs/5.png)
 
 ## Repository Contents
 
