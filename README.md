@@ -29,15 +29,15 @@ This repository hosts various resources related to SOTA models developed by AI-A
 
 ## Contents
 
-### [NLP for Healthcare](https://github.com/ai-amplified/models/tree/main/healthcare)
+### [AI for Healthcare](https://github.com/ai-amplified/models/tree/main/healthcare)
 
 This section includes a number of sub-topics touching multiple aspects of healthcare, including Clinical Names Entity Recognition, Clinical Assertion, Clinical Entity Resolution among others. 
 
-### [NLP for Finance](https://github.com/ai-amplified/models/tree/main/finance)
+### [AI for Finance](https://github.com/ai-amplified/models/tree/main/finance)
 
 Discover notebooks around various financial use cases.
 
-### [NLP for Legal](https://github.com/ai-amplified/models/tree/main/legal)
+### [AI for Legal](https://github.com/ai-amplified/models/tree/main/legal)
 
 Investigate how NLP can bring transformation in the legal industry. 
 
