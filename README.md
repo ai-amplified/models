@@ -8,13 +8,13 @@ Aimped is a distinctive AI platform offering model inference and development, ha
 
 Moreover, we will soon allow model uploads and enable users to earn money. This will encourage the open-source community to share models, reducing redundant training and computing costs while fostering collaboration and innovation.
 
-## What Sets Us Apart?
+## 💪🏻 What Sets Us Apart?
 
-We develop plug-and-play Expert Small Models using an innovative LLMs-in-the-loop process. Large Language Models (LLMs) are utilized for training data generation, model evaluation, and agent orchestration. This integrated approach ensures high-quality performance and seamless integration for your specific needs.
+💻 We develop plug-and-play Expert Small Models using an innovative LLMs-in-the-loop process. Large Language Models (LLMs) are utilized for training data generation, model evaluation, and agent orchestration. This integrated approach ensures high-quality performance and seamless integration for your specific needs.
 
-Commitment to Quality: Aimped takes pride in its dedication to maintaining high-quality standards. Through a meticulous evaluation process, each AI model on our platform is carefully examined for technical excellence while ensuring alignment with ethical and responsible AI practices. Our focus is on delivering unbiased, fair, and accurate models to provide users with dependable performance.
+® Commitment to Quality: Aimped takes pride in its dedication to maintaining high-quality standards. Through a meticulous evaluation process, each AI model on our platform is carefully examined for technical excellence while ensuring alignment with ethical and responsible AI practices. Our focus is on delivering unbiased, fair, and accurate models to provide users with dependable performance.
 
-Upcoming: Monetizing Collaboration: What truly distinguishes Aimped is our commitment to fostering an open-source ecosystem. Soon, we'll be introducing a groundbreaking feature where model owners can seamlessly share and potentially monetize their creations. This upcoming capability not only reduces redundancy in model training but also contributes to a sustainable AI community.
+😉 Upcoming: Monetizing Collaboration: What truly distinguishes Aimped is our commitment to fostering an open-source ecosystem. Soon, we'll be introducing a groundbreaking feature where model owners can seamlessly share and potentially monetize 💰 their creations. This upcoming capability not only reduces redundancy in model training but also contributes to a sustainable AI community.
 
 User-Centric Experience: At the core of Aimped is a commitment to a user-centric philosophy. We aim to create an intuitive platform that empowers users to explore, deploy, and benefit from advanced AI models without unnecessary complexity. Our goal is to make AI accessible and user-friendly for everyone.
 
@@ -23,9 +23,9 @@ This repository hosts various resources related to SOTA models developed by AI-A
 
 ### Featured Topics
 
-- Healthcare
-- Finance
-- Legal
+- 🩺 Healthcare 🧬
+- 💰 Finance 🏦
+- ⚖️ Legal 📓
 
 ## Contents
 
