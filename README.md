@@ -1,10 +1,5 @@
 ![aimped](https://aimped.ai/static/media/birdLogobeta2.1601fdabf769f01d7b183275f51febb9.svg)
 
-# **aimped**
-
-[![PyPI version](https://badge.fury.io/py/aimped.svg)](https://badge.fury.io/py/aimped)
-[![Downloads](https://pepy.tech/badge/aimped)](https://pepy.tech/project/aimped)
-
 Welcome to **Aimped Inc.**: an LLMs-in-the-loop AI Platform.
 
 Aimped is a distinctive AI platform offering model inference and development, harnessing the power of LLMs. Our innovative approach ensures quick, cost-effective, and efficient model training and evaluation. Additionally, we provide user-friendly UI-based AI applications and LLM Agents, making advanced AI accessible and easy to use.
