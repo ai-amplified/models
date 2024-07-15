@@ -1,4 +1,4 @@
-![aimped](https://aimped.ai/static/media/birdLogobeta2.1601fdabf769f01d7b183275f51febb9.svg)
+![aimped](https://cdn-prod.aimped.ai/media/frontend/srcicons/AimpedLogoDark.svg)
 
 # What is Aimped?
 
